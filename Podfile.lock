@@ -1,0 +1,30 @@
+PODS:
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - PocketSVG (2.5.0)
+  - Segmentio (4.1)
+  - SwiftSVG (2.3.2)
+
+DEPENDENCIES:
+  - Kingfisher
+  - PocketSVG
+  - Segmentio
+  - SwiftSVG
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - PocketSVG
+    - Segmentio
+    - SwiftSVG
+
+SPEC CHECKSUMS:
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  PocketSVG: 9d9c4bc8e7d8dbbc208bd21e5c92814fd3c6c34d
+  Segmentio: ab29def64e1bff6e6e9b97671788a99bed3f1d9f
+  SwiftSVG: ca7f64e403b8ea7ea8eba8c823b83ba4a059834c
+
+PODFILE CHECKSUM: bac5bb999d4dff08813fc6ab481797ad5623cecc
+
+COCOAPODS: 1.8.4
